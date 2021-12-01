@@ -1,2 +1,2 @@
-# Snake
-Retro snake with border!
+# HTML Snake (Game)
+The generic snake game
